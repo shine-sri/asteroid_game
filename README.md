@@ -4,7 +4,7 @@ A completely terminal-based implementation of the classic arcade game *Asteroids
 
 Instead of relying on heavyweight graphical libraries like OpenGL or SFML, this project bypasses standard rendering pipelines to interact directly with the POSIX API and ANSI escape codes. The result is a smooth, 60+ FPS gaming experience rendered entirely within the standard output (`stdout`).
 
-![Asteroids Gameplay]\
+# [Asteroids Gameplay]
 ![recording](https://github.com/user-attachments/assets/ea8e905d-4e79-4d87-a961-dbcfccdded9b)
 
 ## 🛠️ Technical Highlights
@@ -37,3 +37,8 @@ This engine is designed to run on **macOS and Linux** systems. No external libra
    ```bash
    git clone [https://github.com/YourUsername/Terminal-Asteroids.git](https://github.com/YourUsername/Terminal-Asteroids.git)
    cd Terminal-Asteroids
+   ```
+
+This project is a macOS/POSIX port and heavy modification of the original olcConsoleGameEngine created by Javidx9 (OneLoneCoder).
+
+
