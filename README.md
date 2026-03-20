@@ -1,4 +1,4 @@
-# Terminal Asteroids: Custom POSIX C++ Game Engine 
+# Terminal Asteroids: Custom POSIX C++ Game  
 
 A completely terminal-based implementation of the classic arcade game *Asteroids*, powered by a custom-built, cross-platform (macOS/Linux) rendering and input engine written in pure C++. 
 
